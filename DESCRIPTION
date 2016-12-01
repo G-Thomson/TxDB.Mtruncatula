@@ -1,0 +1,16 @@
+Package: TxDB.Mtruncatula
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from JCVI Medicago truncatula Genome Project by exposing these as TxDb objects
+Version: 4.2
+Author: Geoffrey Thomson <gtho123@aucklanduni.ac.nz> [cre]
+Maintainer: Geoffrey Thomson <gtho123@aucklanduni.ac.nz>
+Depends: GenomicFeatures (>= 1.26.0)
+Imports: AnnotationDbi
+License: Artistic-2.0
+organism: Medicago truncatula
+species: Medicago truncatula
+provider: JCVI Medicago truncatula Genome Project
+provider_version: 4.2
+release_date: 2016-12-01 11:22:50 +1300 (Thu, 01 Dec 2016)
+resource_url: http://jcvi.org/medicago/display.php?pageName=General&section=Download
+biocViews: AnnotationData, Genetics, TxDb, Medicago_truncatula
